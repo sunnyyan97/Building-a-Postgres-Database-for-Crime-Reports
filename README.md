@@ -8,7 +8,7 @@ In this project I built a database for storing data of crimes committed in Bosto
 
 Here are a description of some of the columns
 
--incident_number- represents the identifier of the crime    
+-<strong>incident_number<strong>- represents the identifier of the crime    
 -offense_code- numeric identifier code for the committed crime  
 -description- a description of the crime  
 -date- date crime occurred  
